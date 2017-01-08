@@ -24,4 +24,4 @@ canvas {
   position: absolute;
 }
 html, body { width: 100%; height: 100%; font-family: Helvetica, Verdana, Arial, sans-serif; }
-.fullscreen { float: right; position: relative; z-index: 10; }
+/* .fullscreen { float: right; position: relative; z-index: 10; } */
